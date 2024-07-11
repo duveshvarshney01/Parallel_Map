@@ -1,0 +1,14 @@
+C:\Users\duves\Music\ParallelMap\ParallelMap\bin\Debug\net6.0\ParallelMap.exe
+C:\Users\duves\Music\ParallelMap\ParallelMap\bin\Debug\net6.0\ParallelMap.deps.json
+C:\Users\duves\Music\ParallelMap\ParallelMap\bin\Debug\net6.0\ParallelMap.runtimeconfig.json
+C:\Users\duves\Music\ParallelMap\ParallelMap\bin\Debug\net6.0\ParallelMap.dll
+C:\Users\duves\Music\ParallelMap\ParallelMap\bin\Debug\net6.0\ParallelMap.pdb
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ParallelMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ParallelMap.AssemblyInfoInputs.cache
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ParallelMap.AssemblyInfo.cs
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ParallelMap.csproj.CoreCompileInputs.cache
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ParallelMap.dll
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\refint\ParallelMap.dll
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ParallelMap.pdb
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ParallelMap.genruntimeconfig.cache
+C:\Users\duves\Music\ParallelMap\ParallelMap\obj\Debug\net6.0\ref\ParallelMap.dll
